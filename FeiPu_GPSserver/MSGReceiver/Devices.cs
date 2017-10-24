@@ -24,7 +24,7 @@ namespace FeiPu_GPSserver.MSGReceiver
 
         public  void GetDeviceFormWebservice()
         {
-            
+             
             string username = System.Configuration.ConfigurationSettings.AppSettings["PlatLoginName"].ToString();
             string PlatLoginPWD = System.Configuration.ConfigurationSettings.AppSettings["PlatLoginPWD"].ToString();
             string PlatIP = System.Configuration.ConfigurationSettings.AppSettings["PlatIP"].ToString();
