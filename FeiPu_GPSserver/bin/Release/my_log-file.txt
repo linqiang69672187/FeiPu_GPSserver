@@ -1,0 +1,581 @@
+2017-04-01 19:17:43,402 [664] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-01 19:17:43,556 [664] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-01 19:26:31,461 [1332] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-01 19:26:31,621 [1332] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-01 19:46:14,145 [296] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-01 19:46:14,287 [296] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-01 19:48:34,985 [3420] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-01 19:48:35,110 [3420] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-01 20:28:37,084 [1332] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CWL_DB"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.tmr_Elapsed(Object sender, EventArgs e)
+ClientConnectionId:0e368df5-6e70-4a5d-a383-c9e903575bbf
+Error Number:4060,State:1,Class:11
+2017-04-02 08:06:28,442 [1248] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-02 08:06:28,838 [1248] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-02 12:43:34,538 [1928] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-02 12:43:34,810 [1928] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-02 14:07:47,402 [1704] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-02 14:09:32,908 [1704] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)-2
+2017-04-03 14:10:18,842 [1444] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-03 14:10:19,014 [1444] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-03 20:08:56,027 [2116] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-03 20:08:56,299 [2116] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-04 07:47:16,778 [2092] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-04 07:47:17,018 [2092] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-04 13:24:40,045 [620] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-04 13:24:56,463 [620] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-04 19:14:01,898 [2120] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-04 19:14:02,190 [2120] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-04 20:51:06,749 [1976] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-04 20:51:06,954 [1976] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-04 20:57:08,842 [1996] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-04 20:57:09,045 [1996] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-05 07:04:23,821 [1036] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-05 07:04:24,048 [1036] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-05 08:16:15,229 [3944] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CWL_DB"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info)
+ClientConnectionId:4674dea9-8508-4457-94ae-e0da98bc6049
+Error Number:4060,State:1,Class:11
+2017-04-05 08:16:16,652 [3944] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CWL_DB"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info)
+ClientConnectionId:4674dea9-8508-4457-94ae-e0da98bc6049
+Error Number:4060,State:1,Class:11
+2017-04-05 08:16:19,377 [5164] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CWL_DB"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info)
+ClientConnectionId:4674dea9-8508-4457-94ae-e0da98bc6049
+Error Number:4060,State:1,Class:11
+2017-04-05 08:16:25,175 [5164] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CWL_DB"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info)
+ClientConnectionId:5e4c67cf-df02-4218-8363-9ea229e6fd46
+Error Number:4060,State:1,Class:11
+2017-04-05 08:16:26,697 [5164] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CWL_DB"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info)
+ClientConnectionId:5e4c67cf-df02-4218-8363-9ea229e6fd46
+Error Number:4060,State:1,Class:11
+2017-04-05 08:16:29,421 [5164] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CWL_DB"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info)
+ClientConnectionId:5e4c67cf-df02-4218-8363-9ea229e6fd46
+Error Number:4060,State:1,Class:11
+2017-04-05 08:16:35,199 [5164] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CWL_DB"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info)
+ClientConnectionId:f261927a-bd6d-42bc-8888-4730eb138d9c
+Error Number:4060,State:1,Class:11
+2017-04-05 08:16:36,822 [3944] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CWL_DB"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info)
+ClientConnectionId:f261927a-bd6d-42bc-8888-4730eb138d9c
+Error Number:4060,State:1,Class:11
+2017-04-05 08:16:39,414 [5164] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CWL_DB"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info)
+ClientConnectionId:f261927a-bd6d-42bc-8888-4730eb138d9c
+Error Number:4060,State:1,Class:11
+2017-04-05 08:16:45,206 [5164] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CWL_DB"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info)
+ClientConnectionId:f261927a-bd6d-42bc-8888-4730eb138d9c
+Error Number:4060,State:1,Class:11
+2017-04-05 08:16:46,946 [3944] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CWL_DB"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info)
+ClientConnectionId:f261927a-bd6d-42bc-8888-4730eb138d9c
+Error Number:4060,State:1,Class:11
+2017-04-05 08:16:49,468 [5164] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "CWL_DB"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info)
+ClientConnectionId:f261927a-bd6d-42bc-8888-4730eb138d9c
+Error Number:4060,State:1,Class:11
+2017-04-11 18:11:21,118 [4440] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-11 18:11:21,275 [4440] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-11 18:14:49,491 [9232] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-11 18:14:49,662 [9232] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-11 18:18:02,220 [3292] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-11 18:18:02,345 [3292] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-11 18:57:39,794 [11092] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-11 18:57:39,930 [11092] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-11 21:17:17,730 [2444] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-11 21:17:17,917 [2444] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-12 12:26:23,917 [2760] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-12 12:26:24,073 [2760] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-12 18:13:47,862 [2796] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-12 18:13:48,034 [2796] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-13 07:02:47,126 [2456] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-13 07:02:47,266 [2456] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-13 07:04:00,315 [2380] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-13 07:04:00,471 [2380] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-13 17:59:00,839 [2752] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-13 17:59:01,026 [2752] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-14 06:13:12,385 [2828] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-14 06:13:12,572 [2828] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-14 17:32:45,432 [2796] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-14 17:32:45,650 [2796] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-14 17:47:48,719 [3256] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+当前命令发生了严重错误。应放弃任何可能产生的结果。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\SQLHelper.cs:行号 28
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.tmr_Elapsed(Object sender, EventArgs e) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 54
+ClientConnectionId:a84198b6-6ccb-4c83-9e0f-43411cfd8bde
+Error Number:18456,State:1,Class:14
+2017-04-14 17:52:48,649 [11016] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\SQLHelper.cs:行号 18
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.tmr_Elapsed(Object sender, EventArgs e) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 54
+ClientConnectionId:92563c42-9a6a-4c8e-90e4-05cd8bc3f806
+Error Number:18456,State:1,Class:14
+2017-04-14 17:55:10,338 [2760] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-14 17:55:11,118 [2760] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-14 18:02:04,059 [2416] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-14 18:02:04,293 [2416] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-14 18:04:59,683 [2312] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-14 18:04:59,917 [2312] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-14 18:10:40,917 [2772] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-14 18:10:41,276 [2772] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-15 05:23:47,260 [2724] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-15 05:23:47,650 [2724] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-15 13:46:36,181 [2540] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-15 13:46:36,508 [2540] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-15 13:46:42,101 [2784] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\SQLHelper.cs:行号 18
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 30
+ClientConnectionId:12d1dcc3-dcb6-4190-8882-de2a959d0405
+Error Number:18456,State:1,Class:14
+2017-04-15 21:04:30,151 [2772] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-15 21:04:30,323 [2772] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-16 06:59:53,058 [2732] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-16 06:59:53,323 [2732] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-16 06:59:56,817 [2740] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\SQLHelper.cs:行号 18
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 30
+ClientConnectionId:c0ac305b-989c-4603-82e0-9019d47c8dda
+Error Number:18456,State:1,Class:14
+2017-04-16 13:26:52,026 [2748] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-16 13:26:52,323 [2748] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-16 19:39:56,260 [2760] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-16 19:39:56,463 [2760] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-17 07:03:58,518 [3232] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-17 07:03:58,939 [3232] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-17 07:04:00,280 [3244] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\SQLHelper.cs:行号 18
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 30
+ClientConnectionId:d25f7e64-2c1e-4b74-94eb-bf07fe155828
+Error Number:18456,State:1,Class:14
+2017-04-17 07:04:00,280 [3300] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\SQLHelper.cs:行号 18
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 30
+ClientConnectionId:d25f7e64-2c1e-4b74-94eb-bf07fe155828
+Error Number:18456,State:1,Class:14
+2017-04-17 07:04:02,059 [3244] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\SQLHelper.cs:行号 18
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 30
+ClientConnectionId:d25f7e64-2c1e-4b74-94eb-bf07fe155828
+Error Number:18456,State:1,Class:14
+2017-04-17 17:55:47,187 [3564] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-17 17:55:47,421 [3564] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-17 18:04:19,984 [3784] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-17 18:04:20,171 [3784] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-18 17:51:10,039 [3520] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-18 17:51:10,242 [3520] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-19 17:55:18,023 [3616] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-19 17:57:03,873 [3616] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)-2
+2017-04-19 21:45:41,462 [3024] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-19 21:47:26,937 [3024] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)-2
+2017-04-20 17:49:27,072 [3696] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-20 17:49:27,290 [3696] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-20 18:59:11,240 [2956] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-20 18:59:11,396 [2956] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-20 19:15:43,950 [2968] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-20 19:15:44,106 [2968] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0

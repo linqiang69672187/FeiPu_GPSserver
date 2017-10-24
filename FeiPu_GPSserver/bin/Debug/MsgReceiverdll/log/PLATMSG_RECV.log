@@ -1,0 +1,241 @@
+2017-03-23 09:34:08,184 [0x00000c60] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-23 09:34:08,295 [0x00000c60] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-23 09:34:08,295 [0x00000c60] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-24 22:24:03,657 [0x00000564] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-24 22:24:03,774 [0x00000564] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-24 22:24:03,774 [0x00000564] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-24 22:27:29,380 [0x00000ccc] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-24 22:27:29,484 [0x00000ccc] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-24 22:27:29,484 [0x00000ccc] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-24 22:27:53,085 [0x0000065c] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-24 22:27:53,189 [0x0000065c] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-24 22:27:53,189 [0x0000065c] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-24 22:34:46,567 [0x000013f4] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-24 22:34:46,672 [0x000013f4] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-24 22:34:46,672 [0x000013f4] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-24 22:37:37,565 [0x0000028c] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-24 22:37:37,670 [0x0000028c] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-24 22:37:37,670 [0x0000028c] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-24 22:57:20,106 [0x0000028c] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-24 22:57:41,210 [0x0000028c] ERROR PLATMSG_RECV - <[33] - TLQReceiverBase::CreateConnection> <create tlq Failed! [mq_create_conn_ex] return handle:0>
+2017-03-24 22:58:02,293 [0x0000028c] ERROR PLATMSG_RECV - <[33] - TLQReceiverBase::CreateConnection> <create tlq Failed! [mq_create_conn_ex] return handle:0>
+2017-03-24 22:59:47,614 [0x0000028c] ERROR PLATMSG_RECV - <[65] - AMQReceiverBase::CreateConnection> <CreateConnection ERROR!!! [plat_addr:221.12.107.194]
+ cms_err:>>由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。  
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 1285
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 1363
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 879
+>
+2017-03-24 23:00:08,694 [0x0000028c] ERROR PLATMSG_RECV - <[33] - TLQReceiverBase::CreateConnection> <create tlq Failed! [mq_create_conn_ex] return handle:0>
+2017-03-24 23:00:08,778 [0x0000028c] INFO  PLATMSG_RECV - <[54] - GlobalManager::UnInit> <--- after call ActiveMQCPP::shutdownLibrary() ! --->
+2017-03-24 23:00:08,779 [0x0000028c] INFO  PLATMSG_RECV - <[57] - GlobalManager::UnInit> <--- after call tlq fini() --->
+2017-03-24 23:00:08,779 [0x0000028c] INFO  PLATMSG_RECV - <[41] - UnInit> <uninit count=0>
+2017-03-24 23:01:34,825 [0x00000e4c] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-24 23:01:34,929 [0x00000e4c] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-24 23:01:34,929 [0x00000e4c] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-24 23:01:54,857 [0x00000e4c] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-24 23:02:15,927 [0x00000e4c] ERROR PLATMSG_RECV - <[33] - TLQReceiverBase::CreateConnection> <create tlq Failed! [mq_create_conn_ex] return handle:0>
+2017-03-24 23:02:36,977 [0x00000e4c] ERROR PLATMSG_RECV - <[33] - TLQReceiverBase::CreateConnection> <create tlq Failed! [mq_create_conn_ex] return handle:0>
+2017-03-24 23:04:22,228 [0x00000e4c] ERROR PLATMSG_RECV - <[65] - AMQReceiverBase::CreateConnection> <CreateConnection ERROR!!! [plat_addr:221.12.107.194]
+ cms_err:>>由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。  
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 1285
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 1363
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 879
+>
+2017-03-24 23:04:43,282 [0x00000e4c] ERROR PLATMSG_RECV - <[33] - TLQReceiverBase::CreateConnection> <create tlq Failed! [mq_create_conn_ex] return handle:0>
+2017-03-25 07:31:43,211 [0x00000ce0] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-25 07:31:43,336 [0x00000ce0] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-25 07:31:43,336 [0x00000ce0] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-25 07:31:56,859 [0x00000ce0] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-25 07:32:17,935 [0x00000ce0] ERROR PLATMSG_RECV - <[33] - TLQReceiverBase::CreateConnection> <create tlq Failed! [mq_create_conn_ex] return handle:0>
+2017-03-25 07:32:39,002 [0x00000ce0] ERROR PLATMSG_RECV - <[33] - TLQReceiverBase::CreateConnection> <create tlq Failed! [mq_create_conn_ex] return handle:0>
+2017-03-25 07:34:24,252 [0x00000ce0] ERROR PLATMSG_RECV - <[65] - AMQReceiverBase::CreateConnection> <CreateConnection ERROR!!! [plat_addr:221.12.107.194]
+ cms_err:>>由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。  
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 1285
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 1363
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 879
+>
+2017-03-25 07:34:45,301 [0x00000ce0] ERROR PLATMSG_RECV - <[33] - TLQReceiverBase::CreateConnection> <create tlq Failed! [mq_create_conn_ex] return handle:0>
+2017-03-25 08:20:02,112 [0x00000bdc] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-25 08:20:02,216 [0x00000bdc] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-25 08:20:02,216 [0x00000bdc] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-25 08:21:11,294 [0x00000bdc] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-25 08:21:32,377 [0x00000bdc] ERROR PLATMSG_RECV - <[33] - TLQReceiverBase::CreateConnection> <create tlq Failed! [mq_create_conn_ex] return handle:0>
+2017-03-25 08:21:53,463 [0x00000bdc] ERROR PLATMSG_RECV - <[33] - TLQReceiverBase::CreateConnection> <create tlq Failed! [mq_create_conn_ex] return handle:0>
+2017-03-25 08:23:38,715 [0x00000bdc] ERROR PLATMSG_RECV - <[65] - AMQReceiverBase::CreateConnection> <CreateConnection ERROR!!! [plat_addr:221.12.107.194]
+ cms_err:>>由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。  
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 1285
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 1363
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 879
+>
+2017-03-25 08:23:59,745 [0x00000bdc] ERROR PLATMSG_RECV - <[33] - TLQReceiverBase::CreateConnection> <create tlq Failed! [mq_create_conn_ex] return handle:0>
+2017-03-25 10:23:56,353 [0x00000a80] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-25 10:23:56,457 [0x00000a80] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-25 10:23:56,457 [0x00000a80] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-25 10:24:16,577 [0x00000a80] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-25 10:24:17,265 [0x00000a80] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:D257EA0>
+2017-03-25 12:35:19,769 [0x00002cdc] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-25 12:35:19,873 [0x00002cdc] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-25 12:35:19,873 [0x00002cdc] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-25 12:35:45,663 [0x00001218] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-25 12:35:45,768 [0x00001218] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-25 12:35:45,768 [0x00001218] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-25 12:36:15,300 [0x000021e0] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-25 12:36:15,404 [0x000021e0] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-25 12:36:15,404 [0x000021e0] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-25 12:36:15,407 [0x000021e0] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-25 12:36:15,584 [0x000021e0] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:C5AB190>
+2017-03-25 12:37:45,666 [0x00000c20] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-25 12:37:45,771 [0x00000c20] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-25 12:37:45,771 [0x00000c20] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-25 12:37:45,774 [0x00000c20] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-25 12:38:06,950 [0x00000c20] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:99EF510>
+2017-03-25 12:48:13,963 [0x00001014] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-25 12:48:14,068 [0x00001014] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-25 12:48:14,068 [0x00001014] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-25 12:48:14,071 [0x00001014] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-25 12:48:16,396 [0x00001014] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:C10B190>
+2017-03-25 14:39:54,830 [0x000028ec] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-25 14:39:54,935 [0x000028ec] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-25 14:39:54,935 [0x000028ec] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-25 14:39:54,936 [0x000028ec] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-25 14:39:55,075 [0x000028ec] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:C85B190>
+2017-03-25 15:46:45,641 [0x00002f98] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-25 15:46:45,746 [0x00002f98] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-25 15:46:45,746 [0x00002f98] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-25 15:46:45,747 [0x00002f98] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-25 15:46:45,915 [0x00002f98] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:C51B728>
+2017-03-25 15:47:50,961 [0x00000994] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-25 15:47:51,066 [0x00000994] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-25 15:47:51,066 [0x00000994] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-25 15:47:51,067 [0x00000994] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-25 15:47:51,215 [0x00000994] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:C54CFA8>
+2017-03-27 08:24:16,888 [0x00001b6c] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-27 08:24:16,993 [0x00001b6c] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-27 08:24:16,993 [0x00001b6c] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-27 08:24:16,994 [0x00001b6c] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-27 08:24:41,169 [0x00001b6c] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:584E4F0>
+2017-03-29 08:37:04,886 [0x00001810] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 08:37:04,990 [0x00001810] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 08:37:04,990 [0x00001810] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 08:37:04,993 [0x00001810] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 08:37:05,184 [0x00001810] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:B016F28>
+2017-03-29 08:37:55,279 [0x00001afc] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 08:37:55,384 [0x00001afc] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 08:37:55,384 [0x00001afc] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 08:37:55,387 [0x00001afc] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 08:37:55,553 [0x00001afc] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:AE8B738>
+2017-03-29 08:46:11,035 [0x0000040c] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 08:46:11,139 [0x0000040c] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 08:46:11,139 [0x0000040c] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 08:46:11,142 [0x0000040c] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 08:46:11,268 [0x0000040c] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:5DF5150>
+2017-03-29 08:56:36,262 [0x00000f0c] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 08:56:36,367 [0x00000f0c] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 08:56:36,367 [0x00000f0c] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 08:56:36,370 [0x00000f0c] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 08:56:36,497 [0x00000f0c] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:627F940>
+2017-03-29 09:23:45,365 [0x00000c64] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 09:23:45,468 [0x00000c64] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 09:23:45,468 [0x00000c64] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 09:23:45,471 [0x00000c64] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 09:23:45,582 [0x00000c64] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:629F940>
+2017-03-29 09:44:54,831 [0x00000de4] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 09:44:54,934 [0x00000de4] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 09:44:54,934 [0x00000de4] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 09:44:54,937 [0x00000de4] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 09:44:55,054 [0x00000de4] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:660F940>
+2017-03-29 09:55:23,306 [0x00001d2c] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 09:55:23,409 [0x00001d2c] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 09:55:23,409 [0x00001d2c] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 09:55:23,411 [0x00001d2c] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 09:55:23,541 [0x00001d2c] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:63EF940>
+2017-03-29 10:10:51,946 [0x00000808] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 10:10:52,049 [0x00000808] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 10:10:52,049 [0x00000808] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 10:10:52,052 [0x00000808] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 10:10:52,185 [0x00000808] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:3CFF940>
+2017-03-29 10:16:22,870 [0x000001a4] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 10:16:22,973 [0x000001a4] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 10:16:22,973 [0x000001a4] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 10:16:22,975 [0x000001a4] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 10:16:23,111 [0x000001a4] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:671F940>
+2017-03-29 10:16:38,136 [0x000015cc] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 10:16:38,240 [0x000015cc] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 10:16:38,240 [0x000015cc] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 10:16:38,243 [0x000015cc] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 10:16:38,386 [0x000015cc] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:62FF940>
+2017-03-29 10:20:13,181 [0x00001868] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 10:20:13,285 [0x00001868] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 10:20:13,285 [0x00001868] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 10:20:13,287 [0x00001868] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 10:20:13,425 [0x00001868] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:69DF940>
+2017-03-29 10:26:13,315 [0x00001168] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 10:26:13,418 [0x00001168] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 10:26:13,418 [0x00001168] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 10:26:13,421 [0x00001168] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 10:26:13,551 [0x00001168] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:2F6F940>
+2017-03-29 10:27:33,144 [0x00001d08] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 10:27:33,249 [0x00001d08] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 10:27:33,249 [0x00001d08] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 10:27:33,251 [0x00001d08] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 10:27:33,377 [0x00001d08] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:3E9F940>
+2017-03-29 20:52:17,614 [0x00002844] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 20:52:17,718 [0x00002844] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 20:52:17,718 [0x00002844] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 20:52:17,719 [0x00002844] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 20:52:18,109 [0x00002844] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:63CF940>
+2017-03-29 20:53:36,056 [0x000020b8] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-29 20:53:36,160 [0x000020b8] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-29 20:53:36,160 [0x000020b8] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-29 20:53:36,161 [0x000020b8] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-29 20:53:36,548 [0x000020b8] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:D8EE70>
+2017-03-30 16:50:28,546 [0x00000674] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-30 16:50:28,686 [0x00000674] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-30 16:50:28,686 [0x00000674] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-30 16:50:28,686 [0x00000674] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-30 16:50:28,827 [0x00000674] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:633A318>
+2017-03-30 19:12:05,830 [0x00001e5c] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-30 19:12:05,934 [0x00001e5c] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-30 19:12:05,934 [0x00001e5c] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-30 19:12:05,934 [0x00001e5c] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-30 19:12:06,038 [0x00001e5c] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:66BF940>
+2017-03-30 19:19:46,062 [0x0000066c] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-30 19:19:46,172 [0x0000066c] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-30 19:19:46,172 [0x0000066c] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-30 19:19:46,172 [0x0000066c] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-30 19:19:46,312 [0x0000066c] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:637F940>
+2017-03-30 21:14:19,028 [0x000007ec] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-30 21:14:19,168 [0x000007ec] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-30 21:14:19,168 [0x000007ec] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-30 21:14:19,168 [0x000007ec] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-30 21:14:19,262 [0x000007ec] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:611EE70>
+2017-03-31 06:41:28,702 [0x000007f0] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-31 06:41:28,832 [0x000007f0] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-31 06:41:28,832 [0x000007f0] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-31 06:41:28,832 [0x000007f0] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-31 06:43:14,062 [0x000007f0] ERROR PLATMSG_RECV - <[65] - AMQReceiverBase::CreateConnection> <CreateConnection ERROR!!! [plat_addr:221.12.107.194]
+ cms_err:>>由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。  
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 1285
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 1363
+	FILE: ..\src\main\activemq\core\ActiveMQConnection.cpp, LINE: 879
+>
+2017-03-31 08:09:15,069 [0x000007fc] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-31 08:09:15,189 [0x000007fc] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-31 08:09:15,189 [0x000007fc] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-31 08:09:15,189 [0x000007fc] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-31 08:09:15,461 [0x000007fc] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:64CF940>
+2017-03-31 17:37:51,250 [0x00000684] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-03-31 17:37:51,374 [0x00000684] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-03-31 17:37:51,374 [0x00000684] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-03-31 17:37:51,374 [0x00000684] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-03-31 17:37:51,562 [0x00000684] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:629F940>
+2017-04-01 18:12:29,888 [0x00000638] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-04-01 18:12:30,028 [0x00000638] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-04-01 18:12:30,028 [0x00000638] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-04-01 18:12:30,028 [0x00000638] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-04-01 18:12:30,231 [0x00000638] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:62FCC98>
+2017-04-01 18:13:43,429 [0x00000634] INFO  PLATMSG_RECV - <[42] - GlobalManager::Init> <--- after call tlq init(), ret:0 --->
+2017-04-01 18:13:43,569 [0x00000634] INFO  PLATMSG_RECV - <[45] - GlobalManager::Init> <--- after call ActiveMQCPP::initializeLibrary() ! --->
+2017-04-01 18:13:43,569 [0x00000634] INFO  PLATMSG_RECV - <[22] - Init> <init count=1>
+2017-04-01 18:13:43,569 [0x00000634] INFO  PLATMSG_RECV - <[92] - GlobalManager::GetHandle> <get session id:1>
+2017-04-01 18:13:43,788 [0x00000634] INFO  PLATMSG_RECV - <[113] - AMQReceiverBase::SetCallbackInfo> <create mq Resource, destination:62CCC98>

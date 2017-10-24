@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9649D43E-BD05-4562-98B6-9B25F3C4BF34}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FeiPu_GPSserver</RootNamespace>
+    <AssemblyName>FeiPu_GPSserver</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net">
+      <HintPath>MSGReceiver\MsgReceiverdll\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MSGReceiver\Devices.cs" />
+    <Compile Include="MSGReceiver\GPSPrase.cs" />
+    <Compile Include="MSGReceiver\NativeMethods.cs" />
+    <Compile Include="MSGReceiver\ServiceResult.cs" />
+    <Compile Include="ProjectInstaller.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ProjectInstaller.Designer.cs">
+      <DependentUpon>ProjectInstaller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\Getresouce\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Service1.Designer.cs">
+      <DependentUpon>Service1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MSGReceiver\MsgReceiverdll\log4cxx.properties" />
+    <None Include="MSGReceiver\MsgReceiverdll\log\PLATMSG_RECV.log" />
+    <None Include="MSGReceiver\MsgReceiverdll\PlatformMsgReceiver.lib" />
+    <None Include="MSGReceiver\MsgReceiverdll\tcli.sys" />
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.addPresetToCruisePathResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.alarmIoControlResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.applyTokenResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.changePresetInfoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.checkResourcePrivilegeResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.delPresetToCruisePathByNumberResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.doorControlResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getAlarmHistoryResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getAlarmIoStatusResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getCruisePathResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getPictureUrlResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getPlayBackInfoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getPlaybackOcxOptionsResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getPresetInfoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getPreviewOcxOptionsResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getResourceByCodesResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getResourceByConditionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getResourceByOrgCodeResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getResourceByPageResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getServiceByTypeResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.getStreamInfoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.gotoCruisePathResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.ptzControlResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.sdkLoginResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.sdkLogoutResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\FeiPu_GPSserver.Getresouce.setPresetListToCruisePathResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Getresouce\VmsSdkWebService.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MSGReceiver\MsgReceiverdll\activemq-cpp.dll" />
+    <Content Include="MSGReceiver\MsgReceiverdll\activemq-cpp.pdb" />
+    <Content Include="MSGReceiver\MsgReceiverdll\hlog.dll" />
+    <Content Include="MSGReceiver\MsgReceiverdll\hpr.dll" />
+    <Content Include="MSGReceiver\MsgReceiverdll\hpr.pdb" />
+    <Content Include="MSGReceiver\MsgReceiverdll\libapr-1.dll" />
+    <Content Include="MSGReceiver\MsgReceiverdll\libapr-1.pdb" />
+    <Content Include="MSGReceiver\MsgReceiverdll\libapriconv-1.dll" />
+    <Content Include="MSGReceiver\MsgReceiverdll\libapriconv-1.pdb" />
+    <Content Include="MSGReceiver\MsgReceiverdll\libaprutil-1.dll" />
+    <Content Include="MSGReceiver\MsgReceiverdll\libaprutil-1.pdb" />
+    <Content Include="MSGReceiver\MsgReceiverdll\libeay32.dll" />
+    <Content Include="MSGReceiver\MsgReceiverdll\mq.dll" />
+    <Content Include="MSGReceiver\MsgReceiverdll\msvcr90.dll" />
+    <Content Include="MSGReceiver\MsgReceiverdll\PlatformMsgReceiver.dll" />
+    <Content Include="MSGReceiver\MsgReceiverdll\PlatformMsgReceiver.pdb" />
+    <Content Include="MSGReceiver\MsgReceiverdll\ssleay32.dll" />
+    <Content Include="MSGReceiver\MsgReceiverdll\tlqcrycomp.dll" />
+    <Content Include="MSGReceiver\MsgReceiverdll\tl_public.dll" />
+    <Content Include="MSGReceiver\MsgReceiverdll\tl_tcapi.dll" />
+    <None Include="Service References\Getresouce\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\Getresouce\configuration.svcinfo" />
+    <None Include="Service References\Getresouce\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ProjectInstaller.resx">
+      <DependentUpon>ProjectInstaller.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\Getresouce\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DbComponent\DbComponent.csproj">
+      <Project>{b629aed0-c484-4cff-be86-e4d6a0724d22}</Project>
+      <Name>DbComponent</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

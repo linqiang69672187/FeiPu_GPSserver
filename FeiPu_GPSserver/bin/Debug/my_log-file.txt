@@ -1,0 +1,2396 @@
+2017-03-29 09:23:45,623 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:23:45,939 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:23:47,408 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:23:47,533 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:23:51,370 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:23:51,841 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:23:52,345 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:23:54,569 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:23:55,649 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:23:55,968 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:23:57,438 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:23:57,553 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:01,395 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:01,851 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:02,339 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:04,596 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:05,690 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:05,967 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:07,448 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:07,573 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:11,457 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:11,879 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:12,346 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:14,897 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:15,666 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:16,018 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:17,470 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:17,593 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:21,466 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:21,908 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:22,350 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:24,736 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:25,694 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:26,067 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:27,499 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:27,613 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:31,469 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:31,917 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:32,364 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:34,675 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:35,814 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:36,094 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:37,507 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:37,631 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:41,472 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:41,930 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:42,357 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:44,694 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:45,755 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:46,109 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:47,569 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:47,654 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:51,499 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:51,960 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:52,342 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:54,824 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:55,741 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:56,127 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:57,559 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:24:57,663 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:01,532 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:01,966 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:02,359 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:04,739 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:05,765 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:06,168 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:07,579 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:07,683 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:11,535 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:12,001 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:12,352 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:14,757 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:15,790 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:16,173 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:17,599 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:17,703 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:21,561 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:22,020 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:22,342 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:24,784 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:25,804 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:26,215 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:27,612 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:27,722 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:31,589 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:32,038 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:32,353 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:34,799 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:35,817 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:36,242 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:37,637 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:37,741 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:41,597 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:42,076 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:42,336 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:44,834 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:45,867 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:46,281 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:47,648 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:47,753 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:51,630 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:52,100 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:52,338 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:54,839 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:55,864 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:56,275 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:57,686 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:25:57,773 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:01,656 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:02,118 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:02,329 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:04,885 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:05,880 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:06,294 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:07,674 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:07,793 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:11,669 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:12,133 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:12,360 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:14,937 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:15,893 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:16,321 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:17,701 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:17,812 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:21,696 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:22,169 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:22,349 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:24,895 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:25,917 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:26,350 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:27,714 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:27,818 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:31,718 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:32,179 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:32,353 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:34,948 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:35,951 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:36,362 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:37,760 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:37,844 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:41,181 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:41,734 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:42,381 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:44,919 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:45,945 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:46,404 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:47,762 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:47,862 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:51,220 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:51,749 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:52,372 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:54,953 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:55,971 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:56,426 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:57,785 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:26:57,883 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:01,246 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:01,797 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:02,382 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:04,991 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:05,998 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:06,454 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:06,943 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:07,817 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:11,256 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:11,794 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:12,380 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:16,145 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:16,465 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:16,944 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:17,834 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:21,264 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:21,808 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:22,368 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:26,028 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:26,502 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:26,959 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:27,839 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:31,310 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:31,854 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:32,376 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:36,051 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:36,522 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:37,121 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:37,859 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:41,315 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:41,867 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:42,377 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:46,067 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:46,561 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:47,005 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:47,881 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:51,340 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:51,892 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:52,373 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:56,099 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:56,724 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:57,006 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:27:57,902 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:01,338 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:01,909 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:02,396 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:06,120 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:06,663 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:07,051 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:07,907 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:11,374 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:11,926 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:12,373 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:16,139 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:16,722 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:17,054 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:17,936 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:21,400 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:21,939 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:22,392 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:26,161 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:26,730 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:27,246 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:27,951 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:31,410 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:31,972 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:32,386 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:36,193 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:36,903 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:37,084 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:37,988 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:41,439 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:41,990 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:42,379 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:46,179 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:46,937 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:47,130 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:47,999 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:51,449 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:51,987 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:52,400 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:56,206 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:56,998 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:57,125 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:28:58,008 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:01,473 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:02,043 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:02,386 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:06,220 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:06,728 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:07,157 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:08,049 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:11,492 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:12,057 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:12,409 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:16,258 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:16,825 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:17,191 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:18,050 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:21,064 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:21,529 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:22,397 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:26,266 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:26,776 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:27,192 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:28,053 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:31,109 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:31,522 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:32,394 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:35,289 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:36,970 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:37,211 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:38,082 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:41,127 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:41,553 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:42,417 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:45,472 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:46,808 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:47,357 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:48,215 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:51,146 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:51,579 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:52,421 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:55,325 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:56,845 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:57,335 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:29:58,138 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:01,172 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:01,588 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:02,404 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:05,379 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:06,892 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:07,276 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:08,179 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:11,201 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:11,582 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:12,414 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:15,364 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:16,892 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:17,203 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:17,277 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:21,185 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:21,606 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:22,417 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:25,376 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:26,878 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:27,229 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:27,295 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:31,223 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:31,644 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:32,419 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:35,709 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:36,920 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:37,226 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:37,319 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:41,276 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:41,662 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:42,424 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:45,410 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:46,924 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:47,253 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:47,335 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:51,261 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:51,676 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:52,421 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:55,448 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:56,945 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:57,273 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:30:57,345 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:01,298 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:01,691 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:02,443 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:05,466 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:07,107 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:07,283 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:07,368 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:11,386 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:11,725 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:12,420 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:15,481 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:15,986 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:17,295 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:17,386 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:21,305 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:21,735 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:22,431 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:25,511 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:26,018 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:27,332 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:27,404 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:31,337 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:31,758 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:32,421 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:35,519 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:36,019 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:37,349 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:37,428 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:41,370 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:41,790 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:42,440 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:45,540 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:46,060 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:47,372 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:47,446 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:51,367 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:51,794 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:52,432 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:55,554 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:56,089 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:57,371 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:31:57,465 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:01,398 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:01,825 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:02,419 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:05,579 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:06,101 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:07,415 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:07,489 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:11,420 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:11,836 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:12,433 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:15,587 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:16,124 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:17,446 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:17,494 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:21,448 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:21,864 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:22,427 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:25,650 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:26,128 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:27,459 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:27,516 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:31,478 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:31,876 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:32,426 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:35,629 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:36,164 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:37,475 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:37,550 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:41,495 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:41,892 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:42,484 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:45,655 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:46,189 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:47,474 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:47,555 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:51,482 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:51,921 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:52,436 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:55,668 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:56,205 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:57,512 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:32:57,578 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:01,539 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:01,946 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:02,429 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:05,694 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:07,519 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:07,599 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:11,232 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:11,552 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:11,970 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:12,427 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:15,718 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:17,571 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:17,617 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:21,258 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:21,582 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:21,973 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:22,427 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:25,733 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:27,562 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:27,637 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:31,266 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:31,605 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:32,003 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:32,435 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:35,758 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:37,589 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:37,660 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:41,619 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:42,031 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:42,431 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:45,782 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:47,610 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:47,677 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:51,622 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:52,051 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:52,432 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:55,789 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:57,640 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:33:57,697 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:01,645 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:02,071 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:02,501 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:05,825 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:07,638 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:07,710 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:11,664 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:12,102 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:12,451 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:15,837 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:17,650 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:17,728 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:21,711 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:22,115 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:22,473 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:25,856 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:27,698 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:27,748 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:31,759 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:32,132 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:32,459 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:35,869 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:36,399 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:37,732 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:37,765 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:41,749 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:42,149 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:42,437 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:45,913 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:46,421 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:47,744 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:47,786 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:51,772 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:52,205 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:52,474 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:55,946 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:56,430 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:57,765 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:34:57,807 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:01,898 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:02,192 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:02,448 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:05,957 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:06,450 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:07,833 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:07,837 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:11,212 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:11,831 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:12,470 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:15,979 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:16,469 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:17,817 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:17,837 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:21,224 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:21,840 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:22,456 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:25,999 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:26,494 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:27,862 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:27,865 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:31,243 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:31,902 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:32,474 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:36,057 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:36,505 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:37,846 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:37,878 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:41,269 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:41,887 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:42,476 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:46,065 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:46,524 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:47,855 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:47,898 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:51,295 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:51,902 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:52,466 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:56,102 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:56,541 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:56,928 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:35:57,874 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:01,314 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:01,933 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:02,473 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:06,144 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:06,580 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:06,946 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:07,913 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:11,336 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:11,940 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:12,481 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:16,150 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:16,582 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:16,970 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:17,926 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:21,345 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:22,035 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:22,473 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:26,183 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:26,603 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:26,977 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:28,018 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:31,365 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:31,989 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:32,463 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:36,189 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:36,642 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:37,016 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:37,955 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:41,399 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:42,023 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:42,461 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:46,214 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:46,645 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:47,030 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:47,979 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:51,404 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:52,076 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:52,478 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:56,227 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:56,669 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:57,056 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:36:57,994 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:01,431 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:02,092 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:02,495 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:06,241 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:06,701 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:07,074 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:08,020 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:11,462 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:12,079 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:12,487 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:16,273 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:16,722 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:17,093 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:18,044 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:21,105 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:21,481 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:22,494 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:25,317 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:26,731 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:27,104 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:28,070 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:31,113 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:31,512 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:32,501 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:35,319 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:36,773 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:37,128 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:38,148 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:41,132 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:41,532 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:42,493 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:45,374 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:46,787 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:47,156 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:48,106 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:51,155 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:51,553 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:52,486 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:55,376 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:56,822 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:57,165 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:37:58,114 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:01,196 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:01,557 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:02,505 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:05,409 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:06,892 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:07,186 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:08,143 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:11,208 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:11,760 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:12,518 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:15,416 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:17,206 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:18,179 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:19,852 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:21,256 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:21,653 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:22,512 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:25,460 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:27,212 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:28,194 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:29,939 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:31,277 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:31,970 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:32,498 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:35,488 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:37,244 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:38,209 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:40,171 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:41,274 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:41,818 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:42,514 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:45,499 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:47,228 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:47,249 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:49,908 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:51,298 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:51,980 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:52,507 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:55,526 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:57,239 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:57,269 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:38:59,954 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:01,345 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:01,926 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:02,510 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:05,550 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:07,267 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:07,295 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:09,949 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:11,350 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:11,708 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:12,498 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:15,566 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:17,286 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:17,293 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:19,994 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:21,378 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:21,729 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:22,518 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:25,694 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:27,319 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:27,326 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:29,993 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:31,391 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:31,930 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:32,514 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:35,606 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:37,342 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:37,346 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:39,007 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:41,868 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:41,871 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:42,514 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:46,017 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:47,362 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:47,369 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:49,038 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:51,456 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:51,871 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:52,499 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:55,742 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:57,366 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:57,376 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:39:59,050 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:01,449 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:01,813 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:02,507 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:05,681 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:07,378 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:07,395 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:09,062 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:11,487 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:12,002 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:12,520 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:15,786 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:17,412 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:17,416 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:19,084 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:21,483 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:21,874 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:22,523 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:25,715 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:27,424 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:27,435 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:29,129 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:31,526 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:31,886 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:32,505 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:35,959 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:37,449 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:37,451 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:39,129 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:41,669 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:41,874 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:42,518 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:45,763 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:47,477 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:47,487 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:49,161 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:51,587 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:51,918 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:52,524 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:55,787 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:57,475 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:57,496 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:40:59,159 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:01,583 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:01,917 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:02,504 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:05,884 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:07,506 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:07,516 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:09,212 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:11,739 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:11,956 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:12,511 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:15,855 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:17,504 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:17,537 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:19,216 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:21,855 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:21,977 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:22,525 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:25,859 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:27,540 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:27,555 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:29,229 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:31,763 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:31,978 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:32,515 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:36,398 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:37,549 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:37,590 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:39,257 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:41,897 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:41,988 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:42,512 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:45,899 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:47,795 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:47,797 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:49,250 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:49,801 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:51,716 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:52,021 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:52,516 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:55,943 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:57,778 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:57,781 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:41:59,294 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:00,485 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:01,727 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:02,117 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:02,513 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:05,938 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:07,621 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:07,630 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:09,168 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:09,292 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:11,737 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:12,072 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:12,545 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:16,030 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:17,789 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:17,799 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:19,321 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:19,332 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:21,842 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:22,098 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:22,537 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:26,002 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:27,807 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:27,809 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:29,221 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:29,337 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:31,793 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:32,117 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:32,535 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:36,107 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:37,815 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:37,817 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:39,216 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:39,343 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:41,804 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:42,128 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:42,556 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:46,076 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:47,783 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:47,786 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:49,256 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:49,369 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:51,907 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:52,156 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:52,555 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:56,075 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:57,797 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:57,797 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:42:59,413 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:01,861 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:02,184 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:02,545 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:06,093 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:07,774 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:07,785 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:09,430 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:11,912 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:12,186 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:12,556 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:16,139 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:17,843 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:17,846 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:19,429 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:21,925 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:22,190 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:22,540 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:26,237 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:28,083 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:28,085 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:29,498 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:31,907 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:32,231 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:32,578 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:36,169 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:37,790 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:37,804 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:39,475 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:42,150 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:42,241 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:42,526 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:46,188 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:47,850 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:47,856 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:49,491 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:51,932 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:52,276 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:52,532 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:56,198 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:57,968 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:57,971 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:43:59,529 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:01,978 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:02,303 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:02,531 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:06,222 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:07,850 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:07,867 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:09,545 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:12,007 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:12,317 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:12,539 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:16,264 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:17,868 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:17,887 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:19,548 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:22,013 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:22,342 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:22,535 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:26,282 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:27,886 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:27,899 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:29,687 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:32,039 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:32,322 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:44:32,549 [6444] DEBUG FeiPu_GPSserver.Service1 [] <>
+ - 11
+2017-03-29 09:55:23,416 [7468] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-29 09:55:23,564 [7468] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-29 10:10:52,057 [2056] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-29 10:10:52,207 [2056] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-29 10:16:22,980 [420] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-29 10:16:23,134 [420] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-29 10:16:38,248 [5580] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-29 10:16:38,408 [5580] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-29 10:20:13,292 [6248] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-29 10:20:13,447 [6248] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-29 10:26:13,427 [4456] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-29 10:26:13,575 [4456] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-29 10:26:15,175 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:ebffec6d-9677-4d8a-98f5-1e077279c44e
+2017-03-29 10:26:18,342 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:ebffec6d-9677-4d8a-98f5-1e077279c44e
+2017-03-29 10:26:18,622 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:ebffec6d-9677-4d8a-98f5-1e077279c44e
+2017-03-29 10:26:19,046 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:ebffec6d-9677-4d8a-98f5-1e077279c44e
+2017-03-29 10:26:20,625 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:3f36887a-07d1-428c-9c99-e6867033c5a5
+2017-03-29 10:26:21,506 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:3f36887a-07d1-428c-9c99-e6867033c5a5
+2017-03-29 10:26:22,421 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:3f36887a-07d1-428c-9c99-e6867033c5a5
+2017-03-29 10:26:23,062 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:3f36887a-07d1-428c-9c99-e6867033c5a5
+2017-03-29 10:26:25,137 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:3f36887a-07d1-428c-9c99-e6867033c5a5
+2017-03-29 10:26:28,378 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:3f36887a-07d1-428c-9c99-e6867033c5a5
+2017-03-29 10:26:28,643 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:3f36887a-07d1-428c-9c99-e6867033c5a5
+2017-03-29 10:26:29,049 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:3f36887a-07d1-428c-9c99-e6867033c5a5
+2017-03-29 10:26:30,653 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:31,533 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:32,438 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:33,065 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:35,158 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:38,383 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:38,654 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:39,061 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:40,655 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:41,566 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:42,467 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:43,059 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:45,189 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:48,408 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:48,673 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:49,094 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:71c07072-fa68-4091-b92a-727e2962ec33
+2017-03-29 10:26:50,720 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:04e9cd3a-36ae-4828-87d0-b816c3e1fba0
+2017-03-29 10:26:51,621 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:04e9cd3a-36ae-4828-87d0-b816c3e1fba0
+2017-03-29 10:26:52,520 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:04e9cd3a-36ae-4828-87d0-b816c3e1fba0
+2017-03-29 10:26:53,068 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:04e9cd3a-36ae-4828-87d0-b816c3e1fba0
+2017-03-29 10:26:55,349 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:04e9cd3a-36ae-4828-87d0-b816c3e1fba0
+2017-03-29 10:26:58,441 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:04e9cd3a-36ae-4828-87d0-b816c3e1fba0
+2017-03-29 10:26:58,691 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:04e9cd3a-36ae-4828-87d0-b816c3e1fba0
+2017-03-29 10:26:59,107 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:04e9cd3a-36ae-4828-87d0-b816c3e1fba0
+2017-03-29 10:27:00,710 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:04e9cd3a-36ae-4828-87d0-b816c3e1fba0
+2017-03-29 10:27:01,624 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:04e9cd3a-36ae-4828-87d0-b816c3e1fba0
+2017-03-29 10:27:02,528 [4456] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:04e9cd3a-36ae-4828-87d0-b816c3e1fba0
+2017-03-29 10:27:03,050 [7408] ERROR CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase [] <>
+ - System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CMSGReFeiPu_GPSserver.MSGReceiver.GPSPrase.AddGpsInfo(GPSInfo info) 位置 e:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\FeiPu_GPSserver\MSGReceiver\GPSPrase.cs:行号 33
+ClientConnectionId:04e9cd3a-36ae-4828-87d0-b816c3e1fba0
+2017-03-29 10:27:33,256 [7432] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-29 10:27:33,399 [7432] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-29 20:52:17,720 [10308] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-29 20:52:18,132 [10308] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-29 20:53:36,162 [8376] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-29 20:53:36,571 [8376] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-30 16:50:28,686 [1652] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-30 16:50:28,858 [1652] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-30 19:12:05,936 [7772] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-30 19:12:06,058 [7772] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-30 19:19:46,172 [1644] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-30 19:19:46,343 [1644] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-30 21:14:19,168 [2028] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-30 21:14:19,278 [2028] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-31 06:41:28,832 [2032] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-31 06:43:14,074 [2032] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)-2
+2017-03-31 08:09:15,189 [2044] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-31 08:09:15,501 [2044] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-03-31 17:37:51,374 [1668] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-03-31 17:37:51,593 [1668] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-01 18:12:30,028 [1592] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-01 18:12:30,262 [1592] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0
+2017-04-01 18:13:43,569 [1588] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 获取消息SDK句柄 PlatformMsgReceiver!GetHandle 成功:句柄1
+2017-04-01 18:13:43,803 [1588] INFO  FeiPu_GPSserver.Service1 [] <>
+ - 设置报警接收回调 PlatformMsgReceiver!SetGPSInfoCallback(0成功|1失败)0

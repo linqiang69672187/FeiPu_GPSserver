@@ -1,0 +1,10 @@
+E:\项目\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\bin\Release\DbComponent.dll
+E:\项目\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\bin\Release\DbComponent.pdb
+E:\项目\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\obj\Release\DbComponent.dll
+E:\项目\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\obj\Release\DbComponent.pdb
+E:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\bin\Release\DbComponent.dll
+E:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\bin\Release\DbComponent.pdb
+E:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\obj\Release\DbComponent.dll
+E:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\obj\Release\DbComponent.pdb
+E:\项目\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\obj\Release\DbComponent.csprojResolveAssemblyReference.cache
+E:\工作\电力APP\FeiPu_GPSserver\FeiPu_GPSserver\DbComponent\obj\Release\DbComponent.csprojResolveAssemblyReference.cache

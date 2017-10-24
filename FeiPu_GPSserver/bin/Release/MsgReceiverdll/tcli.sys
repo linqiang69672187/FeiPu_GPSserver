@@ -1,0 +1,108 @@
+E:[0324 22:57:41.207]:[4772,652]:[tlq_tc_tran.c:527]:[54, 10060]:trans_connect: connect failed [221.12.107.194] [12261]
+E:[0324 22:57:41.209]:[4772,652]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(221.12.107.194,12261)
+E:[0324 22:58:02.291]:[4772,652]:[tlq_tc_tran.c:527]:[54, 10060]:trans_connect: connect failed [221.12.107.194] [12261]
+E:[0324 22:58:02.291]:[4772,652]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(221.12.107.194,12261)
+E:[0324 23:00:08.694]:[4772,652]:[tlq_tc_tran.c:527]:[54, 10060]:trans_connect: connect failed [221.12.107.194] [12261]
+E:[0324 23:00:08.694]:[4772,652]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(221.12.107.194,12261)
+E:[0324 23:02:15.925]:[3120,3660]:[tlq_tc_tran.c:527]:[54, 10060]:trans_connect: connect failed [221.12.107.194] [12261]
+E:[0324 23:02:15.925]:[3120,3660]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(221.12.107.194,12261)
+E:[0324 23:02:36.975]:[3120,3660]:[tlq_tc_tran.c:527]:[54, 10060]:trans_connect: connect failed [221.12.107.194] [12261]
+E:[0324 23:02:36.975]:[3120,3660]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(221.12.107.194,12261)
+E:[0324 23:04:43.282]:[3120,3660]:[tlq_tc_tran.c:527]:[54, 10060]:trans_connect: connect failed [221.12.107.194] [12261]
+E:[0324 23:04:43.282]:[3120,3660]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(221.12.107.194,12261)
+E:[0325 07:32:17.922]:[2540,3296]:[tlq_tc_tran.c:527]:[54, 10060]:trans_connect: connect failed [221.12.107.194] [12261]
+E:[0325 07:32:17.934]:[2540,3296]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(221.12.107.194,12261)
+E:[0325 07:32:39.001]:[2540,3296]:[tlq_tc_tran.c:527]:[54, 10060]:trans_connect: connect failed [221.12.107.194] [12261]
+E:[0325 07:32:39.001]:[2540,3296]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(221.12.107.194,12261)
+E:[0325 07:34:45.300]:[2540,3296]:[tlq_tc_tran.c:527]:[54, 10060]:trans_connect: connect failed [221.12.107.194] [12261]
+E:[0325 07:34:45.300]:[2540,3296]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(221.12.107.194,12261)
+E:[0325 08:21:32.375]:[2888,3036]:[tlq_tc_tran.c:527]:[54, 10060]:trans_connect: connect failed [221.12.107.194] [12261]
+E:[0325 08:21:32.375]:[2888,3036]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(221.12.107.194,12261)
+E:[0325 08:21:53.462]:[2888,3036]:[tlq_tc_tran.c:527]:[54, 10060]:trans_connect: connect failed [221.12.107.194] [12261]
+E:[0325 08:21:53.462]:[2888,3036]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(221.12.107.194,12261)
+E:[0325 08:23:59.744]:[2888,3036]:[tlq_tc_tran.c:527]:[54, 10060]:trans_connect: connect failed [221.12.107.194] [12261]
+E:[0325 08:23:59.744]:[2888,3036]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(221.12.107.194,12261)
+E:[0325 10:25:12.007]:[5148,6752]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=2800
+E:[0325 10:25:12.007]:[5148,6752]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2800
+E:[0325 10:25:12.007]:[5148,6752]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2800
+E:[0325 10:25:12.008]:[5148,6752]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:25:18.003]:[5148,6752]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=2,pTrans->socket=2800
+E:[0325 10:25:18.003]:[5148,6752]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2800
+E:[0325 10:25:18.003]:[5148,6752]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2800
+E:[0325 10:25:18.003]:[5148,6752]:[tlq_tc_tran.c:783]:[1000, -1]:trans_recv_tlqconn: some system error occured while receiving reply packet from agent
+E:[0325 10:26:58.001]:[5148,9916]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=1144
+E:[0325 10:26:58.001]:[5148,9916]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1144
+E:[0325 10:26:58.001]:[5148,9916]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1144
+E:[0325 10:26:58.001]:[5148,9916]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:27:06.000]:[5148,6752]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=2800
+E:[0325 10:27:06.000]:[5148,6752]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2800
+E:[0325 10:27:06.000]:[5148,6752]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2800
+E:[0325 10:27:06.001]:[5148,6752]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:27:23.009]:[5148,6040]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=2360
+E:[0325 10:27:23.009]:[5148,6040]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2360
+E:[0325 10:27:23.009]:[5148,6040]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2360
+E:[0325 10:27:23.010]:[5148,6040]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:27:42.008]:[5148,6752]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=2800
+E:[0325 10:27:42.008]:[5148,6752]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2800
+E:[0325 10:27:42.008]:[5148,6752]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2800
+E:[0325 10:27:42.009]:[5148,6752]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:28:24.000]:[5148,6752]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=2800
+E:[0325 10:28:24.000]:[5148,6752]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2800
+E:[0325 10:28:24.000]:[5148,6752]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2800
+E:[0325 10:28:24.000]:[5148,6752]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:28:34.003]:[5148,6040]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=2360
+E:[0325 10:28:34.003]:[5148,6040]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2360
+E:[0325 10:28:34.003]:[5148,6040]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2360
+E:[0325 10:28:34.004]:[5148,6040]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:28:50.009]:[5148,9916]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=1144
+E:[0325 10:28:50.009]:[5148,9916]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1144
+E:[0325 10:28:50.009]:[5148,9916]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1144
+E:[0325 10:28:50.009]:[5148,9916]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:28:55.005]:[5148,9916]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=2,pTrans->socket=1144
+E:[0325 10:28:55.005]:[5148,9916]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1144
+E:[0325 10:28:55.005]:[5148,9916]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1144
+E:[0325 10:28:55.006]:[5148,9916]:[tlq_tc_tran.c:973]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[0325 10:36:37.008]:[5148,6040]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=2360
+E:[0325 10:36:37.008]:[5148,6040]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2360
+E:[0325 10:36:37.008]:[5148,6040]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2360
+E:[0325 10:36:37.009]:[5148,9916]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=1144
+E:[0325 10:36:37.009]:[5148,6040]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:36:37.009]:[5148,9916]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1144
+E:[0325 10:36:37.010]:[5148,9916]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1144
+E:[0325 10:36:37.010]:[5148,9916]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:37:50.008]:[5148,6752]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=2800
+E:[0325 10:37:50.008]:[5148,6752]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2800
+E:[0325 10:37:50.008]:[5148,6752]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2800
+E:[0325 10:37:50.009]:[5148,6752]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:38:10.009]:[5148,6040]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=604
+E:[0325 10:38:10.009]:[5148,6040]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=604
+E:[0325 10:38:10.009]:[5148,6040]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=604
+E:[0325 10:38:10.009]:[5148,6040]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:40:56.008]:[5148,6752]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=2800
+E:[0325 10:40:56.008]:[5148,6752]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2800
+E:[0325 10:40:56.008]:[5148,6752]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2800
+E:[0325 10:40:56.008]:[5148,6752]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:41:12.009]:[5148,9916]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=2360
+E:[0325 10:41:12.009]:[5148,9916]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2360
+E:[0325 10:41:12.009]:[5148,9916]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2360
+E:[0325 10:41:12.009]:[5148,9916]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:43:08.004]:[5148,6040]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=604
+E:[0325 10:43:08.004]:[5148,6752]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=2800
+E:[0325 10:43:08.005]:[5148,6040]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=604
+E:[0325 10:43:08.005]:[5148,6752]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2800
+E:[0325 10:43:08.005]:[5148,6040]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=604
+E:[0325 10:43:08.006]:[5148,6752]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2800
+E:[0325 10:43:08.006]:[5148,6040]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:43:08.006]:[5148,6752]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:47:54.003]:[5148,9916]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=2360
+E:[0325 10:47:54.003]:[5148,6752]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=11,pTrans->socket=604
+E:[0325 10:47:54.004]:[5148,9916]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2360
+E:[0325 10:47:54.004]:[5148,6752]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=604
+E:[0325 10:47:54.004]:[5148,9916]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2360
+E:[0325 10:47:54.005]:[5148,6752]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=604
+E:[0325 10:47:54.005]:[5148,9916]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:47:54.006]:[5148,6752]:[tlq_tc_tran.c:2913]:[1000, -1]:some system error occured while receiving reply packet of tlq_getmsg
+E:[0325 10:48:06.003]:[5148,9916]:[tlq_tc_tran.c:2203]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=2,pTrans->socket=2360
+E:[0325 10:48:06.003]:[5148,9916]:[tlq_tc_tran.c:2208]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2360
+E:[0325 10:48:06.003]:[5148,9916]:[tlq_tc_tran.c:72]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2360
+E:[0325 10:48:06.003]:[5148,9916]:[tlq_tc_tran.c:783]:[1000, -1]:trans_recv_tlqconn: some system error occured while receiving reply packet from agent
